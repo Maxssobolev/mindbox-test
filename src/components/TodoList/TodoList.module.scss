@@ -1,0 +1,21 @@
+.TodoList{
+    position: relative;
+    height: 100%;
+    font-size: 18px;
+}
+
+.wrapper {
+    
+}
+
+
+
+.noData {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    font-size: 14px;
+    text-align: center;
+    color: gray;
+    transform: translate(-50%, -50%);
+}
